@@ -1,0 +1,3005 @@
+
+> var_label(DATA)
+$idpers
+[1] "Identification number of person"
+
+$idhous19
+[1] "Identification number of household"
+
+$idint
+[1] "Identification number of interviewer"
+
+$filter19.x
+[1] "Identification of the survey"
+
+$p19modes
+[1] "Mode of data collection"
+
+$status19
+[1] "Type of interviews completed: grid, proxy, personal"
+
+$sex19
+[1] "Sex"
+
+$age19
+[1] "Age in year of interview"
+
+$relarp19
+[1] "Relation with person of reference"
+
+$cohast19
+[1] "Cohabitor Status"
+
+$idspou19
+[1] "Identification number of partner or spouse (hetero or homosexual)"
+
+$civsta19
+[1] "Civil status in year of interview"
+
+$maxcop19
+[1] "Max time of years of person living with someone else in household"
+
+$ownkid19
+[1] "Number of children born"
+
+$educat19
+[1] "Highest level of education achieved, grid + individual 11 codes"
+
+$edcat19
+[1] "Highest level of education achieved, grid + individual 17 codes"
+
+$edu_1_19
+[1] "Highest level of education achieved, individual questionnaire 11 codes"
+
+$edugr19
+[1] "Highest level of education achieved, grid 11 codes"
+
+$edgr19
+[1] "Highest level of education achieved, grid 19 codes"
+
+$isced19
+[1] "International Standard Classification of Education ISCED 1997"
+
+$edyear19
+[1] "Years of Education based on ISCED Classification"
+
+$occupa19
+[1] "Actual occupation, from grid"
+
+$nat_1_19
+[1] "First nationality"
+
+$nat_2_19
+[1] "Second nationality"
+
+$nat_3_19
+[1] "Third nationality"
+
+$reg_1_19
+[1] "First nationality by region"
+
+$reg_2_19
+[1] "Second nationality by region"
+
+$reg_3_19
+[1] "Third nationality by region"
+
+$permit19
+[1] "Foreigners residence permit"
+
+$hab_ch19
+[1] "Duration of residence in CH: Since when"
+
+$plingu19
+[1] "Interview language"
+
+$pdate19
+NULL
+
+$p19d17m
+[1] "Civil status: Month of most recent"
+
+$p19d17
+[1] "Civil status: Year of most recent"
+
+$p19d110a
+[1] "Confirmation of number of children born"
+
+$p19d110b
+[1] "Correction of number of children born"
+
+$p19d160
+[1] "Birth in Switzerland"
+
+$p19d161
+[1] "Swiss since birth"
+
+$p19d162
+[1] "Reception of Swiss nationality: Year"
+
+$p19d163
+[1] "Reception of Swiss nationality: Age"
+
+$p19d164
+[1] "Since when in Switzerland: Year"
+
+$p19d165
+[1] "Since when in Switzerland: Age"
+
+$p19d166
+[1] "Permit confirmation of grid"
+
+$p19d167
+[1] "Residential permit"
+
+$p19c44
+[1] "Satisfaction with life in general"
+
+$p19c47
+[1] "Emotions: Joy: Frequency"
+
+$p19c48
+[1] "Emotions: Anger: Frequency"
+
+$p19c49
+[1] "Emotions: Sadness: Frequency"
+
+$p19c50
+[1] "Emotions: Worry: Frequency"
+
+$p19l01
+[1] "Illness, accident: yes, no"
+
+$p19l01r
+[1] "Illness, accident: reason"
+
+$p19l02
+[1] "Onset of illness, accident: Month"
+
+$p19l03
+[1] "Onset of illness, accident - Year"
+
+$p19l05
+[1] "Suffering from illness, accident"
+
+$p19l06
+[1] "Illness, accident (closely related person): yes, no"
+
+$p19l07
+[1] "Onset of illness, accident (closely related person) - Month"
+
+$p19l08
+[1] "Onset of illness, accident (closely related person): Year"
+
+$p19l10
+[1] "Suffering from illness, accident (of a closely related person)"
+
+$p19l11
+[1] "Death of closely related person: yes, no"
+
+$p19l12
+[1] "Death of closely related person - Month"
+
+$p19l13
+[1] "Death of closely related person - Year"
+
+$p19l15
+[1] "Suffering from death of closely related person"
+
+$p19l16
+[1] "Termination of close relationship: yes, no"
+
+$p19l17
+[1] "Termination of close relationship - Month"
+
+$p19l18
+[1] "Termination of close relationship - Year"
+
+$p19l20
+[1] "Suffering from termination of close relationship"
+
+$p19l21
+[1] "Conflicts with or among related persons: yes, no"
+
+$p19l22
+[1] "Conflicts with or among related persons - Month"
+
+$p19l23
+[1] "Conflicts with or among related persons -Year"
+
+$p19l25
+[1] "Suffering from conflicts with or among related persons"
+
+$p19l26
+[1] "Problems with own children: yes, no"
+
+$p19l27
+[1] "Problems with own children: Month"
+
+$p19l28
+[1] "Problems with own children: Year"
+
+$p19l30
+[1] "Suffering from problems with own children"
+
+$p19l90
+[1] "Other life event : yes-no"
+
+$p19l91
+[1] "Type of event"
+
+$p19l92
+[1] "Other life event: Month"
+
+$p19l93
+[1] "Other life event: Year"
+
+$p19l95
+[1] "Suffering from other life event"
+
+$p19c01
+[1] "Health status"
+
+$p19c02
+[1] "Satisfaction with health status"
+
+$p19c03
+[1] "Improvement in health: Last 12 months"
+
+$p19c04a
+[1] "Health problems: Back problems: Last 4 weeks"
+
+$p19c05a
+[1] "Health problems: Weakness, weariness: Last 4 weeks"
+
+$p19c06a
+[1] "Health problems: Sleeping problems: Last 4 weeks"
+
+$p19c07a
+[1] "Health problems: Headaches: Last 4 weeks"
+
+$p19c08
+[1] "Health impediment in everyday activities: Extension"
+
+$p19c19a
+[1] "Chronic illness or long-term health problem"
+
+$p19c11
+[1] "Number of days affected by health problems: Last 12 months"
+
+$p19c12
+[1] "Doctor consultation: Last 12 months"
+
+$p19c15
+[1] "Number of  doctor consultations: Last 12 months"
+
+$p19c186
+[1] "Number of  family doctor consultations: Last 12 months"
+
+$p19c191
+[1] "Overall satisfaction: family doctor"
+
+$p19c193
+[1] "Quality assessment: family doctor"
+
+$p19c192
+[1] "Overall satisfaction: specialist"
+
+$p19c194
+[1] "Quality assessment: specialist"
+
+$p19c187
+[1] "Health insurance model: yes-no"
+
+$p19c188
+[1] "Health insurance model: which"
+
+$p19c189
+[1] "Yearly deductible"
+
+$p19c190
+[1] "Supplementary health insurance"
+
+$p19c41a
+[1] "Hospital or clinic: Number of days: Last 12 months"
+
+$p19c45
+[1] "Height in cm"
+
+$p19c46
+[1] "Weight in kg"
+
+$p19c16
+[1] "Everyday functioning: Medication needed"
+
+$p19c17
+[1] "Depression, blues, anxiety: Frequency"
+
+$p19c18
+[1] "Frequency of energy and optimism"
+
+$p19c184
+[1] "Perceived Stress: nervous"
+
+$p19c130
+[1] "Food: self-evaluation"
+
+$p19c83
+[1] "Smoker"
+
+$p19c84
+[1] "Smoker: cigarettes"
+
+$p19c85
+[1] "Smoker: cigars"
+
+$p19c86
+[1] "Smoker: pipes"
+
+$p19c87
+[1] "Smoker: number of cigarettes per day"
+
+$p19c88
+[1] "Smoker: number of cigars per day"
+
+$p19c89
+[1] "Smoker: number of pipes per day"
+
+$p19c80
+[1] "Ever smoked tobacco"
+
+$p19c93
+[1] "Previous smoker: cigarettes"
+
+$p19c94
+[1] "Previous smoker: cigars"
+
+$p19c95
+[1] "Previous smoker: pipes"
+
+$p19c96
+[1] "Previous Smoker: number of cigarettes per day"
+
+$p19c97
+[1] "Previous Smoker: number of cigars per day"
+
+$p19c98
+[1] "Previous Smoker: number of pipes per day"
+
+$p19c81
+[1] "Age first smoked"
+
+$p19c82
+[1] "Start smoking regularly: age"
+
+$p19c90
+[1] "Stop smoking regularly: age"
+
+$p19c91
+[1] "Stop smoking: exact age or guess"
+
+$p19c92
+[1] "Precision: age quit smoking"
+
+$p19a01
+[1] "Physical activity"
+
+$p19a04
+[1] "Physical activity: days weekly"
+
+$p19e01
+[1] "First education completed after compulsory schooling"
+
+$p19e02
+[1] "Second education completed after compulsory schooling"
+
+$p19e03
+[1] "Education completed since last wave"
+
+$p19e04
+[1] "Education completed since last wave: type"
+
+$p19e05
+[1] "Second education completed: Type"
+
+$p19e06
+[1] "Third education completed after compulsory schooling"
+
+$p19e07
+[1] "Third education completed: Type"
+
+$p19e31
+[1] "Tertiary-level education: field"
+
+$p19e43
+[1] "Tertiary-level education: degree"
+
+$p19e44
+[1] "Tertiary-level education: degree"
+
+$p19e45
+[1] "Tertiary-level education: degree"
+
+$p19e46
+[1] "Tertiary-level education: degree"
+
+$p19e30
+[1] "Highest education completed : Year"
+
+$p19e14
+[1] "Education: Current training at a school"
+
+$p19e15a
+[1] "Current training: check"
+
+$p19e15b
+[1] "Education: Current training: Type"
+
+$p19e15
+[1] "Education: Current training: Type"
+
+$p19yth10
+[1] "Aspirations: highest completed education"
+
+$p19yth11
+[1] "Aspirations: probability to achieve the highest level of education"
+
+$p19yth12
+[1] "Aspirations: desired occupation"
+
+$p19yth13
+[1] "Aspirations: probability to enter into the desired occupation"
+
+$p19e16
+[1] "First language: Personal use"
+
+$p19e17
+[1] "Second language: Personal use"
+
+$p19e18
+[1] "Professional training courses: Last 12 months"
+
+$p19yth01
+[1] "Satisfaction with current studies"
+
+$p19yth02
+[1] "Going to private or public school"
+
+$p19yth03
+[1] "Hours per week spent on studies"
+
+$p19yth04
+[1] "Number of pupils/students in class or study cycle"
+
+$p19yth05
+[1] "Satisfaction with things learned during studies"
+
+$p19yth06
+[1] "Satisfaction with relationship with the teaching staff"
+
+$p19yth07
+[1] "Satisfaction with the atmosphere with your fellow pupils/students"
+
+$p19yth08
+[1] "Satisfaction with  the support from your parents"
+
+$p19yth09
+[1] "Risk of failure at school/in studies in the next 12 months"
+
+$wstat19
+[1] "Working status"
+
+$p19w01
+[1] "Employment: work with payment last week"
+
+$p19w02
+[1] "Employment: work without payment last week"
+
+$p19w03
+[1] "Employment: job although not work last week"
+
+$p19w04
+[1] "Seeking job: Last four weeks"
+
+$p19w05
+[1] "Taken steps to find a job: Last 4 weeks"
+
+$p19w613
+[1] "Unemployed: regional job centre"
+
+$p19w06
+[1] "Job offered: Earliest starting date"
+
+$p19w500
+[1] "Currently not working: ready to accept an interesting job"
+
+$p19w11
+[1] "Chance of finding the right job: Next 12 months"
+
+$p19w12
+[1] "Currently not working: First reason"
+
+$p19w13
+[1] "Currently not working: Second reason"
+
+$p19w14
+[1] "Currently not working: Third reason"
+
+$p19w17
+[1] "Number of jobs or employers: Last week"
+
+$p19w610
+[1] "Total number of hours worked in all jobs"
+
+$p19w18
+[1] "Change of job or employer: Last 12 months"
+
+$p19w21
+[1] "Change of employer: frequency"
+
+$p19w23
+[1] "Change of job: month"
+
+$p19w25
+[1] "Change of job: year"
+
+$p19w66
+[1] "Change of employer: month"
+
+$p19w69
+[1] "Change of employer: year"
+
+$p19w600
+[1] "Change of job or employer: first reason"
+
+$p19w601
+[1] "Change of job or employer: second reason"
+
+$p19w612
+[1] "Current main job: access"
+
+$p19w28
+[1] "CMJ: Current main job: Occupation"
+
+$p19w29
+[1] "CMJ: Type of employment"
+
+$p19w291
+[1] "CMJ: Type of employment"
+
+$p19w292
+[1] "CMJ: Type of employment"
+
+$p19w293
+[1] "CMJ: Type of employment"
+
+$p19w31
+[1] "CMJ: Number of employees"
+
+$p19w32
+[1] "CMJ: Private or Public employer"
+
+$p19w602
+[1] "CMJ: restructuring"
+
+$p19w34a
+[1] "CMJ: Position: Management, supervision"
+
+$p19w36
+[1] "CMJ: Job limitation in time"
+
+$p19w37
+[1] "CMJ: Job limitation: Type of contract"
+
+$p19w38
+[1] "CMJ: Job limitation: Duration of contract"
+
+$p19w39
+[1] "CMJ: Part-time or Full-time"
+
+$p19w42
+[1] "CMJ: Percentage of part-time work"
+
+$p19w43
+[1] "CMJ: Part-time work: Reason"
+
+$p19w46
+[1] "CMJ: Work reference: Number of hours"
+
+$p19w85
+[1] "CMJ: Company: Number of employees"
+
+$p19w84
+[1] "CMJ: Commuting: Number of minutes daily"
+
+$p19w71a
+[1] "CMJ: Type of  working hours"
+
+$p19w216
+[1] "CMJ: Night work"
+
+$p19w218
+[1] "CMJ: Saturdays or Sundays work"
+
+$p19w603
+[1] "CMJ: Rhythm of work: intensity"
+
+$p19w604
+[1] "CMJ: Work conditions: stress"
+
+$p19w605
+[1] "CMJ: Work conditions: noise, dirtiness"
+
+$p19w606
+[1] "CMJ. Work conditions: tiring posture"
+
+$p19w607
+[1] "CMJ: using a computer"
+
+$p19w74
+[1] "CMJ: N contractual hours per week"
+
+$p19w77
+[1] "CMJ: Number of hours worked per week"
+
+$p19w80
+[1] "CMJ: Work at home"
+
+$p19w86a
+[1] "CMJ: Job security: Estimation"
+
+$p19w87
+[1] "CMJ: Job with supervisory tasks"
+
+$p19w90
+[1] "CMJ: Number of persons under supervision"
+
+$p19w91
+[1] "CMJ: Job with participation in decision making"
+
+$p19w92
+[1] "CMJ: Satisfaction: Income"
+
+$p19w93
+[1] "CMJ: Satisfaction: Work conditions"
+
+$p19w94
+[1] "CMJ: Satisfaction: Work atmosphere"
+
+$p19w229
+[1] "CMJ: Satisfaction: interest in tasks"
+
+$p19w230
+[1] "CMJ: Satisfaction: amount of work"
+
+$p19w615
+[1] "CMJ: Satisfaction: hierarchical superiors"
+
+$p19w616
+[1] "CMJ: Satisfaction: promotion"
+
+$p19w228
+[1] "CMJ: Satisfaction: Job in general"
+
+$p19w95
+[1] "CMJ: Comparison: work conditions"
+
+$p19w96
+[1] "CMJ: Comparison: work atmosphere"
+
+$p19w100
+[1] "CMJ: Qualifications for job"
+
+$p19w101
+[1] "CMJ: Risk of unemployment: Next 12 months"
+
+$paug19r4
+[1] "PROFESSIONAL INTEGRATION"
+
+$p19f50
+[1] "Interference work <-> private activities/family obligations"
+
+$p19f51
+[1] "Exhausted after work to do what you would like"
+
+$p19f52
+[1] "How difficult to deconnect from work"
+
+$is1maj19
+[1] "ISCO classification: Main current  job: 1-digit-position"
+
+$is2maj19
+[1] "ISCO classification: Main current  job: 2-digit-position"
+
+$is3maj19
+[1] "ISCO classification: Main current  job: 3-digit-position"
+
+$is4maj19
+[1] "ISCO classification: Main current  job: 4-digit-position"
+
+$cspmaj19
+[1] "Swiss socio-professional category: Main job"
+
+$gldmaj19
+[1] "Goldthorpes class schema: Main job"
+
+$esecmj19
+[1] "European Socio-Economic Classification (ESeC) main current job"
+
+$tr1maj19
+[1] "Treiman prestige scale 1 for main job"
+
+$caimaj19
+[1] "CAMSIS scale with ISCO for main job"
+
+$wr3maj19
+[1] "Wrights class structure: Main job"
+
+$noga2m19
+[1] "Current main job: Nomenclature of economic activities"
+
+$p19w608
+[1] "First regular job: at what age"
+
+$p19w609
+[1] "Number of years spent in paid work"
+
+$p19w154
+[1] "Non-active persons: Paid Job Last year: yes,no"
+
+$p19w177
+[1] "Active persons: Change in job: yes, no"
+
+$p19w555
+[1] "Activities calendar: September 2018"
+
+$p19w556
+[1] "Activities calendar: October 2018"
+
+$p19w557
+[1] "Activities calendar: November 2018"
+
+$p19w558
+[1] "Activities calendar: December 2018"
+
+$p19w559
+[1] "Activities calendar: January 2019"
+
+$p19w560
+[1] "Activities calendar: February 2019"
+
+$p19w561
+[1] "Activities calendar: March 2019"
+
+$p19w562
+[1] "Activities calendar: April 2019"
+
+$p19w563
+[1] "Activities calendar: May 2019"
+
+$p19w564
+[1] "Activities calendar: June 2019"
+
+$p19w565
+[1] "Activities calendar: July 2019"
+
+$p19w566
+[1] "Activities calendar: August 2019"
+
+$p19w567
+[1] "Activities calendar: September 2019"
+
+$p19w568
+[1] "Activities calendar: October 2019"
+
+$p19w569
+[1] "Activities calendar: November 2019"
+
+$p19w570
+[1] "Activities calendar: December 2019"
+
+$p19w571
+[1] "Activities calendar: January 2020"
+
+$p19w572
+[1] "Activities calendar: February 2020"
+
+$p19w573
+[1] "Activities calendar: March 2020"
+
+$p19w614
+[1] "Active persons: regional job centre"
+
+$p19i01
+[1] "Satisfaction with financial situation"
+
+$p19i02
+[1] "Satisfaction with financial situation: Change"
+
+$p19i50
+[1] "Prof. income from dependent employment: Yes-no"
+
+$p19i56
+[1] "Prof. income from dependent employment: Extra months, bonuses"
+
+$p19i60
+[1] "Prof. income from self-employment: Yes-no"
+
+$p19i66
+[1] "Prof. income from self-employment: Extra months, bonuses"
+
+$p19i58a
+[1] "Family or child allowances:  yes / no"
+
+$p19i70
+[1] "Payment received from OASI: Yes-no"
+
+$p19i80
+[1] "Payment received from DI: Yes-no"
+
+$p19i90
+[1] "Payment received from pension schemes: Yes-no"
+
+$p19i100
+[1] "Payment received from unemployment schemes: Yes-no"
+
+$p19i110
+[1] "Payment received from welfare: Yes-no"
+
+$p19i120
+[1] "Payment received from grants: Yes-no"
+
+$p19i130
+[1] "Payment received from other institutions: Yes-no"
+
+$p19i140
+[1] "Payment received from individuals not in HH: Yes-no"
+
+$p19i150
+[1] "Payment received from individuals in HH: Yes-no"
+
+$p19i161
+[1] "Rental income : Yes-no"
+
+$p19i170
+[1] "Interests, dividends: Yes-no"
+
+$p19i33a
+[1] "Other income: Last 12 months"
+
+$p19i165
+[1] "Savings: Amount"
+
+$p19i166
+[1] "Savings: Ref. per."
+
+$i19ptotn
+[1] "Yearly total personal income, net"
+
+$i19ptotg
+[1] "Yearly total personal income, gross"
+
+$i19empyn
+[1] "Income from employment: annual amount net"
+
+$i19empyg
+[1] "Income from employment: annual amount gross"
+
+$i19indyn
+[1] "Income from independent work: annual amount net"
+
+$i19indyg
+[1] "Income from independent work: annual amount gross"
+
+$i19oasiy
+[1] "OASI (old age) pension: Annual income"
+
+$i19aiy
+[1] "Invalidity pension: annual amount"
+
+$i19peny
+[1] "Income from pension insurance: annual amount"
+
+$i19uney
+[1] "Income from unemployment fund: annual amount"
+
+$i19wely
+[1] "Income from social assistance: annual amount"
+
+$i19gray
+[1] "Grants, scholarship: annual amount"
+
+$i19insy
+[1] "Income from other institutions, organizations: annnual amount"
+
+$i19famy
+[1] "Family or child allowances: how much?"
+
+$i19pnhy
+[1] "Income from people in private (outside the household): annual amount"
+
+$i19pihy
+[1] "Income from people in private (in household): annual amount"
+
+$i19wyg
+[1] "Yearly work income, gross"
+
+$i19wyn
+[1] "Yearly work income, net"
+
+$i19stpy
+[1] "Yearly social public transfer income"
+
+$i19stfy
+[1] "Yearly social informal transfer income"
+
+$i19osy
+[1] "Yearly income from other sources"
+
+$i19avsy
+[1] "Yearly income from old age or invalidity pensions"
+
+$i19empmg
+[1] "monthly income from employment: gross"
+
+$i19empmn
+[1] "monthly income from employment: net"
+
+$i19indmg
+[1] "monthly income from self employment: gross"
+
+$i19indmn
+[1] "monthly income from self employment: net"
+
+$i19capy
+[1] "Capital income: yearly amount"
+
+$i19renty
+[1] "Income from rent: yearly amount"
+
+$i19othy
+[1] "Income from other sources: yearly amount"
+
+$p19f01
+[1] "Satisfaction with living alone"
+
+$p19f02
+[1] "Satisfaction with living together"
+
+$p19f03
+[1] "Satisfaction with living alone or together with other HH-members"
+
+$p19f04
+[1] "Satisfaction with way housework is shared"
+
+$p19f08
+[1] "Time for housework: Hours weekly"
+
+$p19f63
+[1] "Time for care work: Hours weekly"
+
+$p19d29
+[1] "Partner: Yes, no"
+
+$p19d32a
+[1] "Partner: Since when: check"
+
+$p19d32c
+[1] "Partner: Since when: month"
+
+$p19d31c
+[1] "Partner: Since when: year"
+
+$ycouple19
+[1] "Partner or spouse: Since when: Corrected year"
+
+$p19n62
+[1] "Partner: sex"
+
+$p19n63
+[1] "Partner: year of birth"
+
+$p19n64
+[1] "Partner: age"
+
+$p19n65
+[1] "Partner: level of education achieved"
+
+$p19n67
+[1] "Contact with partner: reference period"
+
+$p19n68
+[1] "Contact with partner: number of times"
+
+$p19n68b
+[1] "Contact with partner: number of times per month"
+
+$p19n69
+[1] "Satisfaction with the partner"
+
+$p19n04
+[1] "Practical support from partner"
+
+$p19n05
+[1] "Emotional support from partner"
+
+$p19f54
+[1] "Happy with the partner"
+
+$p19d80
+[1] "Total number children wanted"
+
+$p19d81
+[1] "Child wanted in the next 24 months"
+
+$p19n07
+[1] "Contact with children: Reference period"
+
+$p19n06
+[1] "Contact with children: Number of times"
+
+$p19n08
+[1] "Contact with children: Times per month"
+
+$p19n70
+[1] "Practical support from children"
+
+$p19n71
+[1] "Emotional support from children"
+
+$p19n72
+[1] "Satisfaction with the children"
+
+$p19n10
+[1] "Contact with relatives: Number of relatives"
+
+$p19n13
+[1] "Contact with relatives: Times per month"
+
+$p19n14
+[1] "Practical support from relatives"
+
+$p19n15
+[1] "Emotional support from relatives"
+
+$p19n73
+[1] "Mother: alive"
+
+$p19n74
+[1] "Mother: year of birth"
+
+$p19n75
+[1] "Mother: age"
+
+$p19n77
+[1] "Contact with mother: reference period"
+
+$p19n78
+[1] "Contact with mother: number of times"
+
+$p19n78b
+[1] "Contact with mother: number of times per month"
+
+$p19n79
+[1] "Practical support from mother"
+
+$p19n80
+[1] "Emotional support from mother"
+
+$p19n81
+[1] "Satisfaction with mother"
+
+$p19n82
+[1] "Father: alive"
+
+$p19n83
+[1] "Father: year of birth"
+
+$p19n84
+[1] "Father: age"
+
+$p19n86
+[1] "Contact with father: reference period"
+
+$p19n87
+[1] "Contact with father: number of times"
+
+$p19n87b
+[1] "Contact with father: number of times per month"
+
+$p19n88
+[1] "Practical support from father"
+
+$p19n89
+[1] "Emotional support from father"
+
+$p19n90
+[1] "Satisfaction with father"
+
+$p19n112
+[1] "Siblings living outside household"
+
+$p19n113
+[1] "Number of brothers outside household"
+
+$p19n114
+[1] "Number of sisters outside household"
+
+$p19n115
+[1] "Contact with siblings outside household: reference period"
+
+$p19n116
+[1] "Contact with siblings outside household: number of times"
+
+$p19n117
+[1] "Living siblings"
+
+$p19n118
+[1] "Number of brothers outside household"
+
+$p19n119
+[1] "Number of sisters outside household"
+
+$p19n120
+[1] "Contact with siblings outside household: reference period"
+
+$p19n121
+[1] "Contact with siblings outside household: number of times"
+
+$p19n122
+[1] "Practical support from siblings"
+
+$p19n123
+[1] "Emotional support from siblings"
+
+$p19n124
+[1] "Satisfaction with siblings"
+
+$p19n125
+[1] "Living siblings"
+
+$p19n126
+[1] "Number of brothers outside household"
+
+$p19n127
+[1] "Number of sisters outside household"
+
+$p19n128
+[1] "Contact with siblings outside household: number of times per month"
+
+$p19n17
+[1] "Contact with neighbours: Number of neighbours"
+
+$p19n19
+[1] "Contact with neighbours: Reference period"
+
+$p19n18
+[1] "Contact with neighbours: Number of times"
+
+$p19n20
+[1] "Contact with neighbours: Times per month"
+
+$p19n21
+[1] "Practical support from neighbours"
+
+$p19n22
+[1] "Emotional support from neighbours"
+
+$p19n24
+[1] "Contact with close friends: Number of  friends"
+
+$p19n26
+[1] "Contact with close friends: Reference period"
+
+$p19n25
+[1] "Contact with close friends: Number of times"
+
+$p19n27
+[1] "Contact with close friends: Times per month"
+
+$p19n28
+[1] "Practical support from close friends"
+
+$p19n29
+[1] "Emotional support from close friends"
+
+$p19n31
+[1] "Contact with colleagues: Number of colleagues"
+
+$p19n32
+[1] "Practical support from colleagues"
+
+$p19n33
+[1] "Emotional support from colleagues"
+
+$p19ql03
+[1] "Degree of feeling lonely"
+
+$p19ql04
+[1] "Satisfaction with personal relationships"
+
+$p19p45
+[1] "General trust in people"
+
+$p19p48
+[1] "Risk: attitude"
+
+$p19n34
+[1] "Participation in clubs or other groups"
+
+$p19n35
+[1] "Voluntary work"
+
+$p19n38
+[1] "Voluntary work: Number of hours monthly"
+
+$p19n101
+[1] "Informal support: Yes-no"
+
+$p19n102
+[1] "Informal support: reference period"
+
+$p19n103
+[1] "Informal support: number of hours"
+
+$p19n103b
+[1] "Informal support: Number of hours monthly"
+
+$p19n104
+[1] "Informal support: family"
+
+$p19n105
+[1] "Informal support: friends"
+
+$p19n106
+[1] "Informal support: neighbours"
+
+$p19n107
+[1] "Informal support: other people"
+
+$p19p01
+[1] "Interest in politics"
+
+$p19p10
+[1] "Political position: Left, right"
+
+$p19p46
+[1] "Political position: Left, Right: Father"
+
+$p19p47
+[1] "Political position: Left, Right: Mother"
+
+$p19p19
+[1] "Party choice in case of elections tomorrow"
+
+$p19p94
+[1] "Lay explanations for poverty: unlucky"
+
+$p19p95
+[1] "Lay explanations for poverty: laziness"
+
+$p19p96
+[1] "Lay explanations for poverty: injustice"
+
+$p19p97
+[1] "Lay explanations for poverty: part of progress"
+
+$p19a05
+[1] "Satisfaction with free time"
+
+$p19a06
+[1] "Satisfaction with leisure activities"
+
+$p19a14
+[1] "Leisure: Bar, pub, restaurant: Frequency"
+
+$p19a08
+[1] "Leisure: Meeting friends: Frequency"
+
+$p19a10
+[1] "Leisure: Instrument, singing: Frequency"
+
+$p19a11
+[1] "Leisure: Do it yourself, gardening: Frequency"
+
+$p19a13
+[1] "Leisure: Disco: Frequency"
+
+$p19a17
+[1] "Leisure: Sport events: Frequency"
+
+$p19a19
+[1] "Leisure: cinema: Frequency"
+
+$p19a09
+[1] "Leisure: reading: Frequency"
+
+$p19a09a
+[1] "Leisure: reading the newspaper: Frequency"
+
+$p19a09b
+[1] "Leisure: reading free daily newspaper: Frequency"
+
+$p19a09c
+[1] "Leisure: reading books: Frequency"
+
+$p19a09d
+[1] "Leisure: reading magazines: Frequency"
+
+$p19a120
+[1] "Leisure: walking, hiking: Frequency"
+
+$p19a15
+[1] "Leisure: sports: Frequency"
+
+$p19a18a
+[1] "Leisure: going to a theatre: Frequency"
+
+$p19a18b
+[1] "Leisure: opera or classical concert: Frequency"
+
+$p19a121
+[1] "Leisure: painting, drawing, doing sculptures: Frequency"
+
+$p19a122
+[1] "Leisure: taking pictures or doing video art: Frequency"
+
+$p19a123
+[1] "Leisure: museum and gallery: Frequency"
+
+$p19a124
+[1] "Leisure: video games: Frequency"
+
+$p19a125
+[1] "Leisure: video games: hours-minutes"
+
+$p19a126
+[1] "Leisure: video games: hours"
+
+$p19a127
+[1] "Leisure: video games: minutes"
+
+$p19a170
+[1] "Leisure: video games: minutes per day"
+
+$p19a111
+[1] "Leisure: Internet: Frequency"
+
+$p19a128
+[1] "Leisure: internet: hours-minutes"
+
+$p19a129
+[1] "Leisure: internet: hours"
+
+$p19a130
+[1] "Leisure: internet: minutes"
+
+$p19a171
+[1] "Leisure: internet: minutes per day"
+
+$p19a131
+[1] "Leisure: internet: e-mail"
+
+$p19a132
+[1] "Leisure: internet: news"
+
+$p19a133
+[1] "Leisure: internet: financial affairs"
+
+$p19a134
+[1] "Leisure: internet: sell buy"
+
+$p19a135
+[1] "Leisure: internet: chat"
+
+$p19a136
+[1] "Leisure: internet: travel services"
+
+$p19a137
+[1] "Leisure: internet: download programs"
+
+$p19a138
+[1] "Leisure: internet: radio TV"
+
+$p19a139
+[1] "Leisure: internet: education"
+
+$p19n108
+[1] "Online social networks: Yes-no"
+
+$p19n109
+[1] "Online social networks: which"
+
+$p19n110
+[1] "Online social networks: connections"
+
+$p19n111
+[1] "Online social networks: why"
+
+$p19a140
+[1] "Leisure: televison WE: hours-minutes"
+
+$p19a141
+[1] "Leisure: television WE: hours"
+
+$p19a142
+[1] "Leisure: television WE: minutes"
+
+$p19a172
+[1] "Leisure: television WE: minutes per day"
+
+$p19a143
+[1] "Leisure: television NW: hours-minutes"
+
+$p19a144
+[1] "Leisure: television NW: hours"
+
+$p19a145
+[1] "Leisure: television NW: minutes"
+
+$p19a173
+[1] "Leisure: television NW: minutes per day"
+
+$p19h03
+[1] "Year moved into current place of residence."
+
+$p19h04
+[1] "Housing: intention to move"
+
+$int1901
+[1] "Respondent's attitude"
+
+$int1902
+[1] "Respondent's understanding"
+
+$int1903
+[1] "Difficult case"
+
+$int1904
+[1] "Participation in next wave"
+
+$wi19lp99
+[1] "SHPI longitudinal individual weight inflating to size of CH-population in 1999 f"
+
+$wi19ls99
+[1] "SHPI longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp04
+[1] "SHPI-SHPII longitudinal individual weight inflating to size of CH-population in"
+
+$wi19ls04
+[1] "SHPI-SHPII longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp133
+[1] "SHPIII longitudinal individual weight inflating to size of CH-population in 2013"
+
+$wi19ls133
+[1] "SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wi19csp3
+[1] "SHPIII cross-sectional individual weight inflating to size of CH-population for"
+
+$wi19css3
+[1] "SHPIII cross-sectional individual weight keeping sample size for year $$"
+
+$wi19csp
+[1] "SHPI-SHPII-SHPIII combined, cross-sectional individual weight inflating to size"
+
+$wi19css
+[1] "SHPI-SHPII-SHPIII combined, cross-sectional individual weight keeping sample siz"
+
+$wi19lp13
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls13
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp14
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls14
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp15
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls15
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wc19csp
+[1] "SHPI-SHPII-SHPIII combined, cross-sectional child weight inflating to size of CH"
+
+$wc19css
+[1] "SHPI-SHPII-SHPIII combined, cross-sectional child weight keeping sample size, fo"
+
+$wc19csp3
+[1] "SHPIII cross-sectional child weight inflating to size of CH-population for year"
+
+$wc19css3
+[1] "SHPIII cross-sectional child weight keeping sample size for year $$"
+
+$wi19lp16
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls16
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp17
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls17
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$wi19lp18
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight inflating to size of CH-populat"
+
+$wi19ls18
+[1] "SHPI-SHPII-SHPIII longitudinal individual weight keeping sample size for year $$"
+
+$x19c15
+[1] "Mental well-being"
+
+$x19c16
+[1] "Physical well-being"
+
+$x19c17
+[1] "Social well-being"
+
+$x19c05
+[1] "Assessment of health status"
+
+$x19c06
+[1] "Suffering from health problems"
+
+$x19c07
+[1] "Cause of health problems"
+
+$x19c09
+[1] "Days of suffering from health problems: Days"
+
+$x19c10
+[1] "Need for care or surveillance"
+
+$x19c13
+[1] "Time spent for care or surveillance: Hours per month"
+
+$x19c14
+[1] "Related restrictions to household activities"
+
+$x19w01
+[1] "Current main job: Occupation"
+
+$xis1ma19
+[1] "ISCO classification: Main job: 1-digit-position"
+
+$xis2ma19
+[1] "ISCO classification: Main job: 2-digit-position"
+
+$xis3ma19
+[1] "ISCO classification: Main job: 3-digit-position"
+
+$xis4ma19
+[1] "ISCO classification: Main job: 4-digit-position"
+
+$x19w02
+[1] "Current main job: Type of employment"
+
+$x19w03
+[1] "Current main job: Self-employed: Number of regular employees"
+
+$x19w04
+[1] "Current main job position: Management-Training-Production"
+
+$x19e01
+[1] "If in full-time education: Type of education"
+
+$x19e02
+[1] "Current education: Grade"
+
+$x19e03
+[1] "Education: Failure"
+
+$x19e04
+[1] "Education: Failure: Number of times"
+
+$x19e05
+[1] "Education: Failure: Number of years ago"
+
+$x19e07
+[1] "Education: like going to school"
+
+$x19e08
+[1] "Education: able to follow the courses"
+
+$x19z03
+[1] "When person should return to household: year"
+
+$x19i01
+[1] "Availability of income"
+
+$x19i04
+[1] "Total personal income per year"
+
+$x19i05
+[1] "Source of income"
+
+$plinguc20
+[1] "Langue interview"
+
+$agec20
+NULL
+
+$idhousc20
+[1] "Identification number of household"
+
+$filterc20
+[1] "Identification of the survey"
+
+$c20modes
+[1] "Mode of data collection"
+
+$pdatec20
+NULL
+
+$c20sex
+[1] "Sex"
+
+$c20birthm
+[1] "Date of birth: Month"
+
+$c20birthy
+[1] "Date of birth: Year"
+
+$c20hhsize
+[1] "Household size"
+
+$c20c01
+[1] "Covid-19 infection"
+
+$c20h02
+[1] "Covid-19 risk group"
+
+$c20pc01
+[1] "Health status"
+
+$c20pc184
+[1] "Perceived Stress: nervous"
+
+$c20pc04a
+[1] "Health problems: Back problems: Last 4 weeks"
+
+$c20pc05a
+[1] "Health problems: Weakness, weariness: Last 4 weeks"
+
+$c20pc06a
+[1] "Health problems: Sleeping problems: Last 4 weeks"
+
+$c20pc07a
+[1] "Health problems: Headaches: Last 4 weeks"
+
+$c20w01
+[1] "Employment status"
+
+$c20w02a
+[1] "Employees: short-time work"
+
+$c20w02b
+[1] "Employees: work less due to care duties"
+
+$c20w02c
+[1] "Employees: entirely at home"
+
+$c20w02d
+[1] "Employees: partially at home"
+
+$c20w02e
+[1] "Employees: reduce overtime"
+
+$c20w02f
+[1] "Employees: overtime"
+
+$c20w02g
+[1] "Employees: flexible working hours"
+
+$c20w02h
+[1] "Employees: no changes"
+
+$c20w03a
+[1] "Self-employed: business directly affected by regulations"
+
+$c20w03b
+[1] "Self-employed: business affected by suppliers unable to deliver"
+
+$c20w03c
+[1] "Self-employed: business affected by customers cancelling/no demand for my servic"
+
+$c20w03d
+[1] "Self-employed: work entirely from home"
+
+$c20w03e
+[1] "Self-employed: work partly from home"
+
+$c20w03f
+[1] "Self-employed: applied for shorttime work/Corona employment replacement for myse"
+
+$c20w03g
+[1] "Self-employed: applied for Corona credit by Confederation"
+
+$c20w03h
+[1] "Self-employed: use shorttime work for my employees"
+
+$c20w03i
+[1] "Self-employed: forced to lay off employees"
+
+$c20w03j
+[1] "Self-employed: reduced number of employees (no renewal/replacement)"
+
+$c20w03k
+[1] "Self-employed: none of the above"
+
+$c20pw77
+[1] "CMJ: Number of hours worked per week"
+
+$c20pw228
+[1] "CMJ: Satisfaction: Job in general"
+
+$c20w04
+[1] "Become unemployed during Corona crisis"
+
+$c20i01a
+[1] "Risk: job loss"
+
+$c20i01b
+[1] "Risk: use savings"
+
+$c20i01c
+[1] "Risk: take out loan"
+
+$c20i01d
+[1] "Risk: apply for social assistance"
+
+$c20i01e
+[1] "Risk: lower standard of living"
+
+$c20pi02
+[1] "Satisfaction with financial situation: Change"
+
+$c20pe14
+[1] "Education: Currently in education"
+
+$c20pyth03
+[1] "Hours per week spent on studies"
+
+$c20e01a
+[1] "School: difficulty following the curriculum"
+
+$c20e01b
+[1] "School: miss routine"
+
+$c20e01c
+[1] "School: teachers made great effort to help"
+
+$c20e01d
+[1] "School: other duties interfered with school work"
+
+$c20e01e
+[1] "School: my parents helped and supported me"
+
+$c20pf08
+[1] "Time for housework: Hours weekly"
+
+$c20pf63
+[1] "Time for care work: Hours weekly"
+
+$c20pa04
+[1] "Physical activity: days weekly"
+
+$c20l01
+[1] "Frequency leaving home"
+
+$c20n01
+[1] "volunteering activities: more or less"
+
+$c20pa06
+[1] "Satisfaction with leisure activities"
+
+$c20d29
+[1] "Partner: Yes, no"
+
+$c20pf54
+[1] "Happy with the partner"
+
+$c20pf04
+[1] "Satisfaction with way housework is shared"
+
+$c20f01
+[1] "Changes in difficulty combining work and non-work life"
+
+$c20child
+[1] "Children younger than 18 in household"
+
+$c20f02
+[1] "Children: Having children at home overwhelms me"
+
+$c20f03
+[1] "Children: Helping children with schoolwork overwhelms me"
+
+$c20f04
+[1] "Children: Situation is an opportunity to spend more time with children"
+
+$c20f05
+[1] "Children: We have more tensions when everyone at home"
+
+$c20pf01
+[1] "Satisfaction with living alone"
+
+$c20pf02
+[1] "Satisfaction with living together"
+
+$c20pql04
+[1] "Satisfaction with personal relationships"
+
+$c20pc44
+[1] "Satisfaction with life in general"
+
+$c20pql03
+[1] "Degree of feeling lonely"
+
+$c20pc17
+[1] "Depression, blues, anxiety: Frequency"
+
+$c20pc18
+[1] "Frequency of energy and optimism"
+
+$c20c07
+[1] "Worries: economy general"
+
+$c20c08
+[1] "Worries: own economic situation"
+
+$c20c09
+[1] "Worries: own health"
+
+$c20c10
+[1] "Worries: health  close ones"
+
+$c20c11
+[1] "Worries: medical treatment"
+
+$c20c12
+[1] "Worries: social cohesion"
+
+$c20c13
+[1] "Worries: social relations"
+
+$c20c14
+[1] "Worries: life style"
+
+$c20c15
+[1] "Worries: investments"
+
+$c20c16
+[1] "Hopkins: anxiety"
+
+$c20c17
+[1] "Hopkins: posttraumatic stress"
+
+$c20c18
+[1] "Posttraumatic growth: I established a new path for my life"
+
+$c20c19
+[1] "Posttraumaic growth: I know that I can handle difficulties"
+
+$c20c20
+[1] "Posttraumaic growth: I changed priorities about what is important in life"
+
+$c20c21
+[1] "Posttraumatic growth: I have a stronger sprituality/religious faith"
+
+$c20pp45
+[1] "General trust in people"
+
+$c20n02
+[1] "Relation with neighbours"
+
+$c20p01
+[1] "The Federal Council has handled the crisis well"
+
+$c20p02
+[1] "Perception of restriction of civil rights"
+
+$c20n03
+[1] "65+: Emotional support received"
+
+$c20n04
+[1] "65+: Emotional support provided"
+
+$c20n05
+[1] "65+: Practical support received"
+
+$c20n06
+[1] "65+: Emotional support provided"
+
+$c20n07
+[1] "65+: Frequency of in-person contact with family"
+
+$c20n08
+[1] "65+: Frequency of other means of contact with family"
+
+$weights
+NULL
+
+$i99ptotni
+NULL
+
+$i99osyi
+NULL
+
+$i99stpyi
+NULL
+
+$i99stfyi
+NULL
+
+$i99wyni
+NULL
+
+$i00ptotni
+NULL
+
+$i00osyi
+NULL
+
+$i00avsyi
+NULL
+
+$i00stpyi
+NULL
+
+$i00stfyi
+NULL
+
+$i00wyni
+NULL
+
+$i01ptotni
+NULL
+
+$i01osyi
+NULL
+
+$i01avsyi
+NULL
+
+$i01stpyi
+NULL
+
+$i01stfyi
+NULL
+
+$i01wyni
+NULL
+
+$i02ptotni
+NULL
+
+$i02uneyi
+NULL
+
+$i02welyi
+NULL
+
+$i02grayi
+NULL
+
+$i02insyi
+NULL
+
+$i02pihyi
+NULL
+
+$i02pnhyi
+NULL
+
+$i02osyi
+NULL
+
+$i02avsyi
+NULL
+
+$i02stpyi
+NULL
+
+$i02stfyi
+NULL
+
+$i02wyni
+NULL
+
+$i02indyni
+NULL
+
+$i02indmni
+NULL
+
+$i02empyni
+NULL
+
+$i02empmni
+NULL
+
+$i02penyi
+NULL
+
+$i02aiyi
+NULL
+
+$i02oasiyi
+NULL
+
+$i03ptotni
+NULL
+
+$i03uneyi
+NULL
+
+$i03welyi
+NULL
+
+$i03grayi
+NULL
+
+$i03insyi
+NULL
+
+$i03pihyi
+NULL
+
+$i03pnhyi
+NULL
+
+$i03osyi
+NULL
+
+$i03avsyi
+NULL
+
+$i03stpyi
+NULL
+
+$i03stfyi
+NULL
+
+$i03wyni
+NULL
+
+$i03indyni
+NULL
+
+$i03indmni
+NULL
+
+$i03empyni
+NULL
+
+$i03empmni
+NULL
+
+$i03penyi
+NULL
+
+$i03aiyi
+NULL
+
+$i03oasiyi
+NULL
+
+$i04ptotni
+NULL
+
+$i04uneyi
+NULL
+
+$i04welyi
+NULL
+
+$i04grayi
+NULL
+
+$i04insyi
+NULL
+
+$i04pihyi
+NULL
+
+$i04pnhyi
+NULL
+
+$i04osyi
+NULL
+
+$i04avsyi
+NULL
+
+$i04stpyi
+NULL
+
+$i04stfyi
+NULL
+
+$i04wyni
+NULL
+
+$i04indyni
+NULL
+
+$i04indmni
+NULL
+
+$i04empyni
+NULL
+
+$i04empmni
+NULL
+
+$i04penyi
+NULL
+
+$i04famyi
+NULL
+
+$i04aiyi
+NULL
+
+$i04oasiyi
+NULL
+
+$i05ptotni
+NULL
+
+$i05uneyi
+NULL
+
+$i05welyi
+NULL
+
+$i05grayi
+NULL
+
+$i05insyi
+NULL
+
+$i05pihyi
+NULL
+
+$i05pnhyi
+NULL
+
+$i05osyi
+NULL
+
+$i05avsyi
+NULL
+
+$i05stpyi
+NULL
+
+$i05stfyi
+NULL
+
+$i05wyni
+NULL
+
+$i05indyni
+NULL
+
+$i05indmni
+NULL
+
+$i05empyni
+NULL
+
+$i05empmni
+NULL
+
+$i05penyi
+NULL
+
+$i05famyi
+NULL
+
+$i05aiyi
+NULL
+
+$i05oasiyi
+NULL
+
+$i06ptotni
+NULL
+
+$i06uneyi
+NULL
+
+$i06welyi
+NULL
+
+$i06grayi
+NULL
+
+$i06insyi
+NULL
+
+$i06pihyi
+NULL
+
+$i06pnhyi
+NULL
+
+$i06osyi
+NULL
+
+$i06avsyi
+NULL
+
+$i06stpyi
+NULL
+
+$i06stfyi
+NULL
+
+$i06wyni
+NULL
+
+$i06indyni
+NULL
+
+$i06indmni
+NULL
+
+$i06empyni
+NULL
+
+$i06empmni
+NULL
+
+$i06penyi
+NULL
+
+$i06famyi
+NULL
+
+$i06aiyi
+NULL
+
+$i06oasiyi
+NULL
+
+$i07ptotni
+NULL
+
+$i07uneyi
+NULL
+
+$i07welyi
+NULL
+
+$i07grayi
+NULL
+
+$i07insyi
+NULL
+
+$i07pihyi
+NULL
+
+$i07pnhyi
+NULL
+
+$i07osyi
+NULL
+
+$i07avsyi
+NULL
+
+$i07stpyi
+NULL
+
+$i07stfyi
+NULL
+
+$i07wyni
+NULL
+
+$i07indyni
+NULL
+
+$i07indmni
+NULL
+
+$i07empyni
+NULL
+
+$i07empmni
+NULL
+
+$i07penyi
+NULL
+
+$i07famyi
+NULL
+
+$i07aiyi
+NULL
+
+$i07oasiyi
+NULL
+
+$i08ptotni
+NULL
+
+$i08uneyi
+NULL
+
+$i08welyi
+NULL
+
+$i08grayi
+NULL
+
+$i08insyi
+NULL
+
+$i08pihyi
+NULL
+
+$i08pnhyi
+NULL
+
+$i08osyi
+NULL
+
+$i08avsyi
+NULL
+
+$i08stpyi
+NULL
+
+$i08stfyi
+NULL
+
+$i08wyni
+NULL
+
+$i08indyni
+NULL
+
+$i08indmni
+NULL
+
+$i08empyni
+NULL
+
+$i08empmni
+NULL
+
+$i08penyi
+NULL
+
+$i08famyi
+NULL
+
+$i08aiyi
+NULL
+
+$i08oasiyi
+NULL
+
+$i09ptotni
+NULL
+
+$i09uneyi
+NULL
+
+$i09welyi
+NULL
+
+$i09grayi
+NULL
+
+$i09insyi
+NULL
+
+$i09pihyi
+NULL
+
+$i09pnhyi
+NULL
+
+$i09osyi
+NULL
+
+$i09avsyi
+NULL
+
+$i09stpyi
+NULL
+
+$i09stfyi
+NULL
+
+$i09wyni
+NULL
+
+$i09indyni
+NULL
+
+$i09indmni
+NULL
+
+$i09empyni
+NULL
+
+$i09empmni
+NULL
+
+$i09penyi
+NULL
+
+$i09famyi
+NULL
+
+$i09aiyi
+NULL
+
+$i09oasiyi
+NULL
+
+$i10ptotni
+NULL
+
+$i10uneyi
+NULL
+
+$i10welyi
+NULL
+
+$i10grayi
+NULL
+
+$i10insyi
+NULL
+
+$i10pihyi
+NULL
+
+$i10pnhyi
+NULL
+
+$i10osyi
+NULL
+
+$i10avsyi
+NULL
+
+$i10stpyi
+NULL
+
+$i10stfyi
+NULL
+
+$i10wyni
+NULL
+
+$i10indyni
+NULL
+
+$i10indmni
+NULL
+
+$i10empyni
+NULL
+
+$i10empmni
+NULL
+
+$i10penyi
+NULL
+
+$i10famyi
+NULL
+
+$i10aiyi
+NULL
+
+$i10oasiyi
+NULL
+
+$i11ptotni
+NULL
+
+$i11uneyi
+NULL
+
+$i11welyi
+NULL
+
+$i11grayi
+NULL
+
+$i11insyi
+NULL
+
+$i11pihyi
+NULL
+
+$i11pnhyi
+NULL
+
+$i11osyi
+NULL
+
+$i11avsyi
+NULL
+
+$i11stpyi
+NULL
+
+$i11stfyi
+NULL
+
+$i11wyni
+NULL
+
+$i11indyni
+NULL
+
+$i11indmni
+NULL
+
+$i11empyni
+NULL
+
+$i11empmni
+NULL
+
+$i11penyi
+NULL
+
+$i11famyi
+NULL
+
+$i11aiyi
+NULL
+
+$i11oasiyi
+NULL
+
+$i12ptotni
+NULL
+
+$i12uneyi
+NULL
+
+$i12welyi
+NULL
+
+$i12grayi
+NULL
+
+$i12insyi
+NULL
+
+$i12pihyi
+NULL
+
+$i12pnhyi
+NULL
+
+$i12osyi
+NULL
+
+$i12avsyi
+NULL
+
+$i12stpyi
+NULL
+
+$i12stfyi
+NULL
+
+$i12wyni
+NULL
+
+$i12indyni
+NULL
+
+$i12indmni
+NULL
+
+$i12empyni
+NULL
+
+$i12empmni
+NULL
+
+$i12penyi
+NULL
+
+$i12famyi
+NULL
+
+$i12aiyi
+NULL
+
+$i12oasiyi
+NULL
+
+$i13ptotni
+NULL
+
+$i13uneyi
+NULL
+
+$i13welyi
+NULL
+
+$i13grayi
+NULL
+
+$i13insyi
+NULL
+
+$i13pihyi
+NULL
+
+$i13pnhyi
+NULL
+
+$i13osyi
+NULL
+
+$i13avsyi
+NULL
+
+$i13stpyi
+NULL
+
+$i13stfyi
+NULL
+
+$i13wyni
+NULL
+
+$i13indyni
+NULL
+
+$i13indmni
+NULL
+
+$i13empyni
+NULL
+
+$i13empmni
+NULL
+
+$i13penyi
+NULL
+
+$i13famyi
+NULL
+
+$i13aiyi
+NULL
+
+$i13oasiyi
+NULL
+
+$i14ptotni
+NULL
+
+$i14uneyi
+NULL
+
+$i14welyi
+NULL
+
+$i14grayi
+NULL
+
+$i14insyi
+NULL
+
+$i14pihyi
+NULL
+
+$i14pnhyi
+NULL
+
+$i14osyi
+NULL
+
+$i14rentyi
+NULL
+
+$i14capyi
+NULL
+
+$i14othyi
+NULL
+
+$i14avsyi
+NULL
+
+$i14stpyi
+NULL
+
+$i14stfyi
+NULL
+
+$i14wyni
+NULL
+
+$i14indyni
+NULL
+
+$i14indmni
+NULL
+
+$i14empyni
+NULL
+
+$i14empmni
+NULL
+
+$i14penyi
+NULL
+
+$i14famyi
+NULL
+
+$i14aiyi
+NULL
+
+$i14oasiyi
+NULL
+
+$i15ptotni
+NULL
+
+$i15uneyi
+NULL
+
+$i15welyi
+NULL
+
+$i15grayi
+NULL
+
+$i15insyi
+NULL
+
+$i15pihyi
+NULL
+
+$i15pnhyi
+NULL
+
+$i15osyi
+NULL
+
+$i15rentyi
+NULL
+
+$i15capyi
+NULL
+
+$i15othyi
+NULL
+
+$i15avsyi
+NULL
+
+$i15stpyi
+NULL
+
+$i15stfyi
+NULL
+
+$i15wyni
+NULL
+
+$i15indyni
+NULL
+
+$i15indmni
+NULL
+
+$i15empyni
+NULL
+
+$i15empmni
+NULL
+
+$i15penyi
+NULL
+
+$i15famyi
+NULL
+
+$i15aiyi
+NULL
+
+$i15oasiyi
+NULL
+
+$i16ptotni
+NULL
+
+$i16uneyi
+NULL
+
+$i16welyi
+NULL
+
+$i16grayi
+NULL
+
+$i16insyi
+NULL
+
+$i16pihyi
+NULL
+
+$i16pnhyi
+NULL
+
+$i16osyi
+NULL
+
+$i16rentyi
+NULL
+
+$i16capyi
+NULL
+
+$i16othyi
+NULL
+
+$i16avsyi
+NULL
+
+$i16stpyi
+NULL
+
+$i16stfyi
+NULL
+
+$i16wyni
+NULL
+
+$i16indyni
+NULL
+
+$i16indmni
+NULL
+
+$i16empyni
+NULL
+
+$i16empmni
+NULL
+
+$i16penyi
+NULL
+
+$i16famyi
+NULL
+
+$i16aiyi
+NULL
+
+$i16oasiyi
+NULL
+
+$i17ptotni
+NULL
+
+$i17uneyi
+NULL
+
+$i17welyi
+NULL
+
+$i17grayi
+NULL
+
+$i17insyi
+NULL
+
+$i17pihyi
+NULL
+
+$i17pnhyi
+NULL
+
+$i17osyi
+NULL
+
+$i17rentyi
+NULL
+
+$i17capyi
+NULL
+
+$i17othyi
+NULL
+
+$i17avsyi
+NULL
+
+$i17stpyi
+NULL
+
+$i17stfyi
+NULL
+
+$i17wyni
+NULL
+
+$i17indyni
+NULL
+
+$i17indmni
+NULL
+
+$i17empyni
+NULL
+
+$i17empmni
+NULL
+
+$i17penyi
+NULL
+
+$i17famyi
+NULL
+
+$i17aiyi
+NULL
+
+$i17oasiyi
+NULL
+
+$i18ptotni
+NULL
+
+$i18uneyi
+NULL
+
+$i18welyi
+NULL
+
+$i18grayi
+NULL
+
+$i18insyi
+NULL
+
+$i18pihyi
+NULL
+
+$i18pnhyi
+NULL
+
+$i18osyi
+NULL
+
+$i18rentyi
+NULL
+
+$i18capyi
+NULL
+
+ [ reached getOption("max.print") -- omitted 358 entries ]
+
+> sink()

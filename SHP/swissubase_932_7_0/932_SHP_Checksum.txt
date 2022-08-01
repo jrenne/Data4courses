@@ -1,0 +1,16 @@
+----------------CHECKSUM------------------
+
+Data_SAS.zip (SHA-1):
+4A537267D82ABC3E41EFD539C6FB40DCBCC60285
+
+Data_SPSS.zip (SHA-1):
+FB3814854BC799EA78233EE9B01D158C127CF8F4
+
+Data_STATA.zip (SHA-1):
+A26495C4B844BDD76ADE1AF17F6CAB0948CE6007
+
+----------------INFOS---------------------
+
+Checksum allows you to verify the integrity of a data file using a specific tool, 
+for example MD5 & SHA-1 Checksum Utility, which is available for free download on 
+several websites. 
