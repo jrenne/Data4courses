@@ -54,38 +54,5 @@ for(i in 1:11){
 
 All.data <- cbind(All.data,monthly.dummy)
 
-write.csv(All.data,file="../data4parapluie.csv",row.names=FALSE)
-
-stop()
-
-
-# Deseasonalize series:
-eq.deseas <- lm(All.data$parapluie~monthly.dummy)
-All.data$deseas.parapluie <- eq.deseas$residuals
-
-eq.deseas <- lm(All.data$precip~monthly.dummy)
-All.data$deseas.precip <- eq.deseas$residuals
-
-
-# Illustrate the Frisch Waugh theorem ######
-# ================
-
-
-# Regress parapluie on precip:
-eq <- lm(parapluie~precip,data=All.data)
-print(summary(eq))
-
-# Regress parapluie on precip (deseasonalized):
-eq <- lm(deseas.parapluie~deseas.precip,data=All.data)
-print(summary(eq))
-
-# Regress parapluie on precip + dummies:
-eq <- lm(parapluie~precip+monthly.dummy,data=All.data)
-print(summary(eq))
-
-plot(All.data$nb.deces,type="l")
-par(new=TRUE)
-plot(All.data$precip,type="l",col="red")
-
-
+write.csv(All.data,file="data4parapluie.csv",row.names=FALSE)
 
