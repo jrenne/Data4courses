@@ -42,11 +42,6 @@ summary((eq))
 plot(All.data$date,All.data$parapluie,type='l')
 lines(All.data$date,eq$fitted.values,col='red')
 
-write.csv(All.data,file="../data4parapluie.csv",row.names=FALSE)
-
-stop()
-
-
 # Construct monthly dummies:
 monthly.dummy <- matrix(0,N,11)
 for(i in 1:11){
@@ -56,6 +51,11 @@ for(i in 1:11){
   aux <- aux[1:N]
   monthly.dummy[,i] <- aux
 }
+
+All.data <- cbind(All.data,monthly.dummy)
+
+write.csv(All.data,file="../data4parapluie.csv",row.names=FALSE)
+
 
 # Deseasonalize series:
 eq.deseas <- lm(All.data$parapluie~monthly.dummy)
