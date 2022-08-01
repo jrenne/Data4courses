@@ -56,6 +56,8 @@ All.data <- cbind(All.data,monthly.dummy)
 
 write.csv(All.data,file="../data4parapluie.csv",row.names=FALSE)
 
+stop()
+
 
 # Deseasonalize series:
 eq.deseas <- lm(All.data$parapluie~monthly.dummy)
